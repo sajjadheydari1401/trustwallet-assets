@@ -1,0 +1,41 @@
+{
+  "name": "$ZKP Token",
+  "symbol": "$ZKP",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Panther Protocol Token",
+  "website": "https://pantherprotocol.io",
+  "explorer": "https://etherscan.io/token/0x909E34d3f6124C324ac83DccA84b74398a6fa173",
+  "status": "active",
+  "id": "0x909E34d3f6124C324ac83DccA84b74398a6fa173",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/pantherprotocol"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ZkPanther"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/joinchat/GJ64F-nRiIF86Cxn"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/WZuRnMCZ4c"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/r/PantherProtocol"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@panther-protocol"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://pantherprotocol.io/resources/panther-protocol-v-1-0-1.pdf"
+    }
+  ]
+}
